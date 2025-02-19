@@ -1,7 +1,7 @@
 <img align="center" alt="Coding" width="1000" height="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--NzgxrJEe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mdvk568xm4hmk3bjfsqs.gif">
 
 <h1 align="center">Hi 👋, I'm Shreya Kurry</h1>
-<h3 align="center">I am Shreya Kurry, Quick Learner and React JS. Developer. I am pursuing B.E. in Information Technology from Vasantdada Patil Pratisthan's College of Engineering.</h3>
+<h3 align="center">I am Shreya Kurry, Quick Learner and Software Developer. I have completed B.E. in Information Technology from Vasantdada Patil Pratisthan's College of Engineering.</h3>
 
 <img align="center" alt="Coding" width="1000" src="https://devtechnosys.com/insights/wp-content/uploads/2021/07/full-stack-development.gif">
 
